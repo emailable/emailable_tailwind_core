@@ -12,24 +12,18 @@ export const theme = {
   borderColor: ({ theme }) => ({
     ...theme('colors'),
     DEFAULT: theme('colors.slate.100', 'currentColor'),
-    'dark': theme('colors.slate.200', 'currentColor'),
-    'darker': theme('colors.slate.300', 'currentColor'),
   }),
   colors: {
     none: colors.none,
     inherit: colors.inherit,
     current: colors.current,
     transparent: colors.transparent,
-    black: 'black',
+    black: colors.black,
     cyan: colors.cyan,
-    dark: '#1d1641',
     fuschia: colors.fuschia,
     green: colors.emerald,
-    light: '#9692c4',
-    lighter: '#a899ff',
-    neutral: '#655b95',
     orange: colors.orange,
-    white: 'white',
+    white: colors.white,
     yellow: colors.amber,
     primary: {
       50: '#ecebff',
@@ -101,7 +95,7 @@ export const theme = {
   },
   extend: {
     fontFamily: {
-      primary: ['Inter', ...defaultTheme.fontFamily.sans],
+      sans: ['Inter', ...defaultTheme.fontFamily.sans],
       code: [
         'Roboto Mono', 'Consolas', 'Bitstream Vera Sans Mono', 'Andale Mono',
         'Monaco', 'DejaVu Sans Mono', 'Lucida Console'
