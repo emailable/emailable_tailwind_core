@@ -24,6 +24,6 @@ TailwindCSS theme and core styles for Emailable.
 
 ## Minimization
 
-It's important that we mimimize additions to the core styles to prevent
+It's important that we minimize additions to the core styles to prevent
 unnecessary bloat. We should carefully review all additions to ensure we keep
 this slim.
