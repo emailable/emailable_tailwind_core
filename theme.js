@@ -113,7 +113,8 @@ export const theme = {
       )
     },
     transitionTimingFunction: {
-      'ease-in-squish': 'cubic-bezier(.5,-.3,.1,1.5);'
+      'in-out-expo': 'cubic-bezier(0.15, 0, 0, 1)',
+      'in-squish': 'cubic-bezier(.5, -.3, .1, 1.5)'
     },
   },
 }
