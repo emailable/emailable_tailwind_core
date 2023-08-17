@@ -101,6 +101,14 @@ export const theme = {
         'Monaco', 'DejaVu Sans Mono', 'Lucida Console'
       ]
     },
+    opacity: {
+      '15': '.15',
+      '35': '.35',
+      '45': '.45',
+      '55': '.55',
+      '65': '.65',
+      '85': '.85'
+    },
     screens: {
       '2xs': '375px',
       xs: '414px'
