@@ -20,7 +20,7 @@ export const theme = {
     transparent: colors.transparent,
     black: colors.black,
     cyan: colors.cyan,
-    fuschia: colors.fuschia,
+    fuchsia: colors.fuchsia,
     orange: colors.orange,
     white: colors.white,
     primary: {
