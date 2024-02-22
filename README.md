@@ -19,8 +19,9 @@ TailwindCSS theme and core styles for Emailable.
 
 | Name              | Style                          |
 | ----------------- | ------------------------------ |
-| Dark              | `Primary 900` to `Primary 950` |
-| Purple            | `Primary 500` to `Primary 700` |
+| Dark              | `Primary 800` to `Primary 950` |
+| Darker            | `Primary 900` to `Primary 950` |
+| Purple            | `Primary 500` to `Primary 800` |
 
 ## Minimization
 

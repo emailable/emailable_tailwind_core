@@ -10,6 +10,11 @@ const spacing = [
 
 module.exports = {
   theme: {
+    backgroundImage: ({ theme }) => ({
+      'gradient-radial-darker': `radial-gradient(circle at 70% 30%, ${theme('colors.primary.900')}, ${theme('colors.primary.950')});`,
+      'gradient-radial-dark': `radial-gradient(circle at 70% 30%, ${theme('colors.primary.800')}, ${theme('colors.primary.950')});`,
+      'gradient-radial-purple': `radial-gradient(circle at 70% 30%, ${theme('colors.primary.500')}, ${theme('colors.primary.800')});`
+    }),
     borderColor: ({ theme }) => ({
       ...theme('colors'),
       DEFAULT: theme('colors.slate.100', 'currentColor'),
