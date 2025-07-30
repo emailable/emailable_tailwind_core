@@ -2,7 +2,7 @@
   "name": "emailable_tailwind_core",
   "version": "1.0.0",
   "description": "TailwindCSS theme and core styles for Emailable.",
-  "main": "theme.js",
+  "main": "theme.css",
   "repository": "git@github.com:emailable/emailable_tailwind_core.git",
   "author": "Jarrett Lusso <jclusso@gmail.com>",
   "license": "MIT"
