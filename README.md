@@ -6,16 +6,16 @@ TailwindCSS theme and core styles for Emailable.
 
 ### Colors
 
-| UI component                              | Light mode         | Dark mode                                               |
-| ----------------------------------------- | ------------------ | ------------------------------------------------------- |
-| Background - General                      | `White`            | `Slate 950`                                             |
-| Background - General alternative          | `Slate 50`         | `Slate 900`                                             |
-| Background - Popovers                     | `White`            | `Slate 800`                                             |
-| Buttons & links                           | `Primary 500`      | `Primary 500`                                           |
-| Borders                                   | `Slate 100`        | `Slate 800`                                             |
-| Headings & bold text                      | `Slate 800`        | `White`                                                 |
-| Subheadings & body text                   | `Slate 600`        | `Slate-300` / `Primary 300` (Gradient backgrounds only) |
-| Article body text                         | `Slate 700`        | `Slate-300`                                             |
+| UI component                              | Light mode         | Dark mode                                          |
+| ----------------------------------------- | ------------------ | -------------------------------------------------- |
+| Background - General                      | `White`            | `Slate 950`                                        |
+| Background - General alternative          | `Slate 50`         | `Slate 900`                                        |
+| Background - Popovers                     | `White`            | `Slate 800`                                        |
+| Buttons & links                           | `Primary 500`      | `Primary 500`                                      |
+| Borders                                   | `Slate 100`        | `Slate 800`                                        |
+| Headings & bold text                      | `Slate 800`        | `White`                                            |
+| Subheadings & body text                   | `Slate 600`        | `Slate 300` / `Primary 200` (Gradient backgrounds) |
+| Article body text                         | `Slate 700`        | `Slate 300`                                        |
 
 ### Gradients
 
